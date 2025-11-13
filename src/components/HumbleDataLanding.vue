@@ -398,7 +398,6 @@ const schedule = [
                 </svg>
               </a>
             </div>
-            <p class="text-humble-brown/70 text-xs">@beccacademy</p>
           </div>
         </div>
 
