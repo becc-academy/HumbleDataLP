@@ -374,9 +374,9 @@ const schedule = [
           </div>
 
           <!-- Social Media Section -->
-          <div class="text-center md:text-right animate__animated animate__fadeInRight">
+          <div class="text-center animate__animated animate__fadeInRight">
             <h3 class="font-black text-lg text-humble-brown mb-4">Follow Us</h3>
-            <div class="flex gap-4 justify-center md:justify-end mb-4">
+            <div class="flex gap-4 justify-center mb-4">
               <a href="https://twitter.com/beccacademy" target="_blank" rel="noopener noreferrer" class="w-10 h-10 bg-humble-yellow rounded-full flex items-center justify-center hover:bg-humble-red hover:scale-110 transition-all duration-300 group">
                 <svg class="w-5 h-5 text-humble-brown group-hover:text-white" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
