@@ -402,7 +402,7 @@ const schedule = [
         </div>
 
         <!-- Bottom Bar -->
-        <div class="border-t border-humble-yellow/30 pt-6 text-center">
+        <div class="border-t border-humble-yellow/30 pt-10 mt-6 text-center">
           <p class="text-humble-brown/70 text-sm">© 2025 Becc Academy. All rights reserved.</p>
         </div>
       </div>
